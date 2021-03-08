@@ -9,7 +9,7 @@ Hizb format:
 
 i-j: Hizbs from i to j both included
 
-i,j,k,...: Hizbs i and j
+i,j,k-l,...: All the Hizbs listed
 
 Date | Hizbs revised
 -----|--------------
