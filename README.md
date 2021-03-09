@@ -17,4 +17,4 @@ Date | Hizbs revised
 5/3/2021 | 1-4
 6/3/2021 | 1-4
 7/3/2021 | 1-4
-8/3/2021 | 1-6 (1-4 with Abdelhamid)
+8/3/2021 | 3-6 (3-4 with Abdelhamid)
