@@ -39,3 +39,6 @@ Date | Hizbs revised
 27/3/2021 | 11-14
 28/3/2021 | 1-2, 11-14
 29/3/2021 | 11-14 (13-14 twice, once with Abdelhamid and once alone later)
+30/3/2021 | 3-4, 11-14
+31/3/2021 | 5, 11-14
+1/4/2021 | 13-15
